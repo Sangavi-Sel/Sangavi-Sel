@@ -1,44 +1,51 @@
-Hi, I'm Sangavi Selvam 👋
-Aspiring DevOps & Cloud Engineer ☁️
+# Hi, I'm Sangavi Selvam 👋
+
+### Aspiring DevOps & Cloud Engineer ☁️
 
 MSc Computer Science graduate transitioning into Cloud & DevOps Engineering. I am building hands-on experience in cloud infrastructure, containerization, CI/CD, and application deployment.
 
-🛠️ Technical Skills
-Cloud: AWS (EC2, S3, IAM, VPC, EBS, Security Groups,Cloud watch)
-CI/CD: Jenkins
-Containers: Docker, Kubernetes
-Operating Systems: Linux
-Scripting: Bash, Python
-Version Control: Git, GitHub
-Networking: SSH, basic networking concepts
+### 🛠️ Technical Skills
 
-🚀 My Projects
-1. Node.js Application Deployment
-Application deployment using AWS, Docker, and Jenkins.
-Practising CI/CD and container-based hosting.
+- **Cloud:** AWS (EC2, S3, IAM, VPC, EBS, Security Groups)
+- **CI/CD:** Jenkins
+- **Containers:** Docker, Kubernetes
+- **Operating Systems:** Linux
+- **Scripting:** Bash, Python
+- **Version Control:** Git, GitHub
+- **Networking:** SSH, basic networking concepts
 
-2. PHP Application Deployment
-Working with containerized application deployment.
-Practising Linux, Docker, and deployment troubleshooting.
+### 🚀 My Projects
 
-3. Python Application Deployment
-Building practical experience with application deployment and DevOps workflows.
-🔗 Explore my repositories: GitHub Projects
+**1. Node.js Application Deployment**
+- Application deployment using AWS, Docker, and Jenkins.
+- Practising CI/CD and container-based hosting.
 
-📚 Currently Learning
-End-to-end DevOps workflows
-Kubernetes application deployment
-CI/CD automation
-AWS cloud infrastructure
-Troubleshooting and deployment best practices
+**2. PHP Application Deployment**
+- Working with containerized application deployment.
+- Practising Linux, Docker, and deployment troubleshooting.
 
-🎯 Career Goal
-I am actively seeking opportunities as a Junior DevOps Engineer, AWS Cloud Engineer, or Cloud Support Engineer, where I can contribute, learn from experienced professionals, and grow through real-world projects.
+**3. Python Application Deployment**
+- Building practical experience with application deployment and DevOps workflows.
 
-🤝 Let's Connect
+🔗 Explore my repositories: [GitHub Projects](https://github.com/Sangavi-Sel?tab=repositories)
 
-GitHub: Sangavi-Sel
-LinkedIn: www.linkedin.com/in/sangavi-selvam
-Email: sangaviselvam1717@gmail.com
+### 📚 Currently Learning
 
-Learning continuously. Building practically. Growing in Cloud & DevOps. 🚀
+- End-to-end DevOps workflows
+- Kubernetes application deployment
+- CI/CD automation
+- AWS cloud infrastructure
+- Troubleshooting and deployment best practices
+
+### 🎯 Career Goal
+
+I am actively seeking opportunities as a **Junior DevOps Engineer, AWS Cloud Engineer, or Cloud Support Engineer**, where I can contribute, learn from experienced professionals, and grow through real-world projects.
+
+### 🤝 Let's Connect
+
+- **GitHub:** [Sangavi-Sel](https://github.com/Sangavi-Sel)
+- **LinkedIn:** www.linkedin.com/in/sangavi-selvam
+- **Email:** sangaviselvam1717@gmail.com
+
+
+*Learning continuously. Building practically. Growing in Cloud & DevOps.* 🚀
