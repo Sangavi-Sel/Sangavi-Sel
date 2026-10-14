@@ -1,16 +1,41 @@
-## Hi there 👋
+Hi, I'm Sangavi Selvam 👋
 
-<!--
-**Sangavi-Sel/Sangavi-Sel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring DevOps & Cloud Engineer ☁️
+MSc Computer Science graduate transitioning into Cloud & DevOps Engineering. I am building hands-on experience in cloud infrastructure, containerization, CI/CD, and application deployment.
 
-Here are some ideas to get you started:
+🛠️ Technical Skills
+Cloud: AWS (EC2, S3, IAM, VPC, EBS, Security Groups,Cloud watch)
+CI/CD: Jenkins
+Containers: Docker, Kubernetes
+Operating Systems: Linux
+Scripting: Bash, Python
+Version Control: Git, GitHub
+Networking: SSH, basic networking concepts
+🚀 My Projects
+1. Node.js Application Deployment
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Application deployment using AWS, Docker, and Jenkins.
+Practising CI/CD and container-based hosting.
+2. PHP Application Deployment
+
+Working with containerized application deployment.
+Practising Linux, Docker, and deployment troubleshooting.
+3. Python Application Deployment
+
+Building practical experience with application deployment and DevOps workflows.
+🔗 Explore my repositories: GitHub Projects
+
+📚 Currently Learning
+End-to-end DevOps workflows
+Kubernetes application deployment
+CI/CD automation
+AWS cloud infrastructure
+Troubleshooting and deployment best practices
+🎯 Career Goal
+I am actively seeking opportunities as a Junior DevOps Engineer, AWS Cloud Engineer, or Cloud Support Engineer, where I can contribute, learn from experienced professionals, and grow through real-world projects.
+
+🤝 Let's Connect
+GitHub: Sangavi-Sel
+LinkedIn: www.linkedin.com/in/sangavi-selvam
+Email: sangaviselvam1717@gmail.com
+Learning continuously. Building practically. Growing in Cloud & DevOps. 🚀
